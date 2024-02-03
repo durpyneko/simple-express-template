@@ -13,12 +13,14 @@ const port = 4000
  * * all files in 'public' folder will be available at: url:port/public/file.ext
  */
 app.use("/public", express.static(__dirname + '/public'));
+/**
+ * * same thing for pages, but instead of going to url:port/public/pages/page.ext 
+ * * just simply go to url:port/pages/page.ext
+ */
 app.use("/pages", express.static(__dirname + '/public/pages'));
 
-// handle the root route and send the 'index.html' file
-
 /**
- * handle the root route and send the 'index.html' file
+ * * handle the root route and send the 'index.html' file
  * * NOTE: here we serve index.html publicly
  */
 app.get('/', (req, res) => {
