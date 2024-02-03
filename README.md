@@ -13,7 +13,7 @@ I also recommend getting the [Better Comments](https://marketplace.visualstudio.
 
 > An [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), I preferably use [VS Code](https://code.visualstudio.com/)
 >
-> [Git](https://www.w3schools.com/git/git_getstarted.asp) or [Github Desktop (Windows only)](https://desktop.github.com/) installed
+> [Git](https://www.w3schools.com/git/git_getstarted.asp) or [Github Desktop (Windows and MacOS only afaik)](https://desktop.github.com/) installed
 >
 > A [terminal](https://en.wikipedia.org/wiki/Terminal) ready
 >
