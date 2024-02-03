@@ -42,6 +42,7 @@ I also recommend getting the [Better Comments](https://marketplace.visualstudio.
 6. Open the default url: `http://127.0.0.1:4000`
 
 # Goodluck on your venture o7
+Remember: Google, Stackoverflow and w3schools is your friend
 
 
 
