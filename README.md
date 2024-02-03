@@ -27,6 +27,8 @@ I also recommend getting the [Better Comments](https://marketplace.visualstudio.
 > ```
 > Using Github Desktop: [Docs](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop)
 
+Or download the repo zip. 
+
 2. Open your IDE of choice in the directory you cloned into. Github Desktop has a quick launch feature
 > ![image](https://github.com/durpyneko/simple-express-template/assets/89787577/3430ee13-483d-4c39-89c6-b4bb3bf93833)
 
