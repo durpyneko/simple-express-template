@@ -1,6 +1,17 @@
+/* classes (annotated by the dot -> . ) are better used for css and id's for javascript */
+
+/* center a div by class */
 .center {
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
-  }
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+/* this is using id */
+#center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
